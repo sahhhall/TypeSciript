@@ -1,5 +1,5 @@
 let person: {
-    name: string,
+    name: string;
     age: number
 }
 
