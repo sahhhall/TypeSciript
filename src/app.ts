@@ -26,3 +26,9 @@ if(itemcount > 0 && itemcount <= 5){
 
 
 console.log(`discount amount is ${discount}`);
+
+// Typealias : create new name for existing type 
+
+type strnumbool = string | number ;
+let input: strnumbool;
+// input = true;
